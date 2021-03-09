@@ -1,0 +1,59 @@
+.header::before {
+    background-color: #E91E63;
+}
+
+button.min_btn {
+    background-color: transparent !important;
+    color: #E91E63;
+    border: 1px solid #E91E63 !important;
+}
+button.min_btn:hover{
+    background-color: #E91E63 !important;
+    color: white;
+}
+nav .groups .menu ul li a.active {
+    color: #E91E63;
+}
+
+.overlay_rud {
+    background-color: #E91E63;
+}
+
+span.border-b {
+    border-bottom: 2px solid #E91E63;
+}
+
+.product-card ul li button {
+    background: #e91e63c9;
+}
+
+.product-card ul li button:hover {
+    background-color: #E91E63;
+}
+
+li.ml-2.btn.btn-primary.mt-1.control {
+    background: #E91E63;
+    border-color: #E91E63;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show>.btn-primary.dropdown-toggle
+{
+    background: #990034;
+    border-color: #990034;
+}
+button.btn.btn-primary.mb-2 {
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+
+.footer i.fa.fa-heart {
+    color: #e91e63;
+}
+nav .groups .menu ul li a:hover, nav .groups .setting span:hover i{
+    color: #85012e;
+}
+nav .groups .menu ul li a::before{
+    background: #85012e;
+}
